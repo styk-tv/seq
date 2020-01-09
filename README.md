@@ -1,2 +1,0 @@
-# seq
-Created with CodeSandbox
